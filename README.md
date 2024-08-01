@@ -51,15 +51,17 @@ To run the Jupyter Notebook, you need to have the following installed:
 
 1. **Launch Jupyter Notebook:**
 
+   Open a terminal or command prompt and navigate to the directory containing your Jupyter Notebook file(s):
+
     ```bash
     jupyter notebook
     ```
 
-2. **Open the Notebook:**
+3. **Open the Notebook:**
 
     In the Jupyter Notebook interface, navigate to the `notebooks` folder and open `fake_news_detection.ipynb`.
 
-3. **Run the Cells:**
+4. **Run the Cells:**
 
     Execute the cells in the notebook sequentially. The notebook reads the CSV files, trains the machine learning models, and evaluates their performance.
 
