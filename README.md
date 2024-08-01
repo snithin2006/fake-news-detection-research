@@ -65,4 +65,4 @@ To run the Jupyter Notebook, you need to have the following installed:
 
 ## Contact
 
-For any questions or issues, please contact [your-email@example.com](nithin06.siva@gmail.com).
+For any questions or issues, please contact [nithin06.siva@gmail.com](mailto:nithin06.siva@gmail.com).
