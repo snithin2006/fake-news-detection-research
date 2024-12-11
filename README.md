@@ -29,7 +29,7 @@ To run the Jupyter Notebook, you need to have the following installed:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/snithin2006/Fake-News-Detection-Project.git
+    git clone https://github.com/snithin2006/fake-news-detection-project.git
     ```
 
 2. **Download the CSV Files:**
