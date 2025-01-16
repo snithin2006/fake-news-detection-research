@@ -1,5 +1,5 @@
 # Fake News Detection Paper
-This repository contains the code used in the study "A Comparative Analysis of Fake News Classifier Models," where we trained and compared three different machine learning algorithms to detect real and fake news articles. The models included a naïve Bayes classifier, a support vector classifier, and a random forest classifier.
+This repository contains the code used in the study "A Comparative Analysis of Fake News Classifier Models," where we trained and compared three different machine learning algorithms to detect real and fake news articles. The models included a naïve Bayes classifier, a support vector classifier, and a random forest classifier. Read the published paper in Vol. 6, Issue 1 of the International Journal of High School Research: https://ijhsr.terrajournals.org/vol-6-issue1.html.
 
 ## Contents
 
